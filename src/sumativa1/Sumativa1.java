@@ -30,6 +30,7 @@ public class Sumativa1 {
             System.out.println("5. Consultar Total de cuotas pagadas por el socio. ");
             System.out.println("6. Salir del programa. ");
             System.out.println("7. hooooy ");
+            System.out.println("8. hooy noo ");
             
             try {
                 int opcion = Integer.parseInt(scanner.nextLine());
